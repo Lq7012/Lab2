@@ -2,7 +2,7 @@
 {
     public enum MaterialType
     {
-        Wood = 1, Metal = 2, Coal = 3, Fuel = 4
+        Metal = 1, Coal = 2, Fuel = 3
     }
 }
 
