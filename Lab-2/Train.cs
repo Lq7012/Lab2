@@ -39,7 +39,7 @@
 
                 case 2:
 
-                    Console.WriteLine("Виберіть тип матеріалу: Wood = 1, Metal = 2, Coal = 3, Fuel = 4: ");
+                    Console.WriteLine("Виберіть тип матеріалу: Metal = 1, Coal = 2, Fuel = 3: ");
 
                     MaterialType chosenMaterial = (MaterialType)Enum.Parse(typeof(MaterialType), Console.ReadLine());
 
